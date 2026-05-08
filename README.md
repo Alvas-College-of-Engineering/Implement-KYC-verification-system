@@ -2,11 +2,13 @@
 
 A secure and efficient **KYC (Know Your Customer) Verification System** developed using modern web technologies. This project helps organizations digitally verify customer identities through document upload, validation, and secure authentication.
 
-[![HTML](https://img.shields.io/badge/Frontend-HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/Style-CSS3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Backend-Node.js-green.svg)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg)](https://www.mongodb.com/)
+![Frontend](https://img.shields.io/badge/Frontend-HTML5-orange)
+![Style](https://img.shields.io/badge/Style-CSS3-blue)
+![Logic](https://img.shields.io/badge/Logic-JavaScript-yellow)
+![JSP](https://img.shields.io/badge/View-JSP-red)
+![Servlet](https://img.shields.io/badge/Backend-Servlet-green)
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Database](https://img.shields.io/badge/Database-MySQL-blue)
 
 ---
 
